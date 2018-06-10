@@ -3,7 +3,6 @@ project(CCF)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(untitled STL_火星文字.cpp STL_algorithm_lower_bound.cpp STL_algorithm_next_permutation.cpp STL_stack.cpp STL_queue.cpp STL_set.cpp STL_find.cpp STL_erase.cpp)
 add_executable(unitlted1 STL_algorithm_lower_bound.cpp)
 add_executable(unitlted2 STL_algorithm_next_permutation.cpp)
 add_executable(unitlted3 STL_stack.cpp)
